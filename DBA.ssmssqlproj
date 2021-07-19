@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DBA">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="ANKSVMDWSQLP002.ankura.local:RAYWORKPC\Ray">
+          <Created>2021-07-16T08:11:58.5956387-05:00</Created>
+          <Type>SQL</Type>
+          <Server>ANKSVMDWSQLP002.ankura.local</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="ANKSVMDWSQLP004.ankura.local:RAYWORKPC\Ray">
+          <Created>2021-07-12T15:25:57.0921266-05:00</Created>
+          <Type>SQL</Type>
+          <Server>ANKSVMDWSQLP004.ankura.local</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="ANKSVMDWSQLP005.ankura.local:RAYWORKPC\Ray">
+          <Created>2021-07-14T12:37:35.8924889-05:00</Created>
+          <Type>SQL</Type>
+          <Server>ANKSVMDWSQLP005.ankura.local</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="ANKSVMDWSQLP006.ankura.local:RAYWORKPC\Ray">
+          <Created>2021-07-16T16:02:34.3468953-05:00</Created>
+          <Type>SQL</Type>
+          <Server>ANKSVMDWSQLP006.ankura.local</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="blitz_scratch.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANKSVMDWSQLP002.ankura.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANKSVMDWSQLP002.ankura.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>blitz_scratch.sql</FullPath>
+        </FileNode>
+        <FileNode Name="columnNames.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>columnNames.sql</FullPath>
+        </FileNode>
+        <FileNode Name="file_location_data_logs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANKSVMDWSQLP002.ankura.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANKSVMDWSQLP002.ankura.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>file_location_data_logs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MaintenanceSolution.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANKSVMDWSQLP004.ankura.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANKSVMDWSQLP004.ankura.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>MaintenanceSolution.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ObjectChanges.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANKSVMDWSQLP004.ankura.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANKSVMDWSQLP004.ankura.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ObjectChanges.sql</FullPath>
+        </FileNode>
+        <FileNode Name="scratch-invoice.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANKSVMDWSQLP004.ankura.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANKSVMDWSQLP004.ankura.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>scratch-invoice.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_cmd_off-on.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANKSVMDWSQLP002.ankura.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANKSVMDWSQLP002.ankura.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sp_cmd_off-on.sql</FullPath>
+        </FileNode>
+        <FileNode Name="View100.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANKSVMDWSQLP004.ankura.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANKSVMDWSQLP004.ankura.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>View100.sql</FullPath>
+        </FileNode>
+        <FileNode Name="View100Unchanged.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANKSVMDWSQLP004.ankura.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANKSVMDWSQLP004.ankura.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>View100Unchanged.sql</FullPath>
+        </FileNode>
+        <FileNode Name="vwIncomeStatement.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANKSVMDWSQLP004.ankura.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANKSVMDWSQLP004.ankura.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>vwIncomeStatement.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WIP_Totals.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANKSVMDWSQLP005.ankura.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANKSVMDWSQLP005.ankura.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>WIP_Totals.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
